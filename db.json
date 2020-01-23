@@ -1,0 +1,87 @@
+{
+  "albums": [
+    {
+      "order": 3,
+      "title": "High Voltage",
+      "year_recorded": 1975,
+      "studio_recording": true,
+      "live_recording": false,
+      "production_credits": {
+        "studio": "Albert Studios",
+        "producer": "Vanda & Young"
+      },
+      "musicians": [
+        {
+          "name": "Angus Young",
+          "instrument": "lead Guitar"
+        },
+        {
+          "name": "Malcolm Young",
+          "instrument": "rhythm guitar, backing vocals, bass guitar, lead guitar on tracks 3, 5, 6 and 8"
+        },
+        {
+          "name": "George Young",
+          "instrument": "bass guitar, rhythm guitar, backing vocals"
+        },
+        {
+          "name": "Rob Bailey",
+          "instrument": "bass guitar"
+        },
+        {
+          "name": "Bon Scott",
+          "instrument": "Lead Vocals"
+        },
+        {
+          "name": "Peter Clack",
+          "instrument": "drums on track 1"
+        },
+        {
+          "name": "Harry Vanda",
+          "instrument": "backing vocals"
+        },
+        {
+          "name": "Tony Currenti",
+          "instrument": "drums on tracks 2–8"
+        }
+      ],
+      "track_listing": [
+        {
+          "order": 1,
+          "title": "",
+          "length": 3.57,
+          "single": false,
+          "written_by": [
+            {
+              "name": "Angus Young"
+            },
+            {
+              "name": "Malcolm Young"
+            },
+            {
+              "name": "Bon Scott"
+            }
+          ]
+        }
+      ],
+      "certification": {
+        "region": "Australia (ARIA)",
+        "certification": "5x Platinum",
+        "units_sales": "350000^"
+      },
+      "chart_perfomance": {
+        "billboard": [
+          {
+            "year": 1975,
+            "peaked": 1,
+            "lowest_position": 6
+          },
+          {
+            "year": 2008,
+            "peaked": 6,
+            "weeks_on_chart": 6
+          }
+        ]
+      }
+    }
+  ]
+}
