@@ -1,4 +1,5 @@
-[
+{
+  "albums": [
   {
     "id": 0,
     "title": "High Voltage",
@@ -186,3 +187,4 @@
     }
   }
 ]
+}
